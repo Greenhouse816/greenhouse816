@@ -21,33 +21,8 @@ Smart Contract(Solidity, Rust), Web3.js/Solana-Web3.js, Ether.js, Truffle/Remix/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
 
-#
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=spectrecoder&theme=darkmode&data=followers,repositories,stars,commits' />
-</p>
 
-## Favorite Saying 👍
-
-```rust
-/// Spectrecoder's motto
-struct LinusTorvalds;
-
-impl LinusTorvalds {
-  /// Return My quote
-  fn said(&self) -> &str {
-    "First learn, then remove l. It's time to remove l, but don't stop first."
-  }
-}
-
-fn main() {
-  let linus_torvalds = LinusTorvalds;
-
-  println!("Linus Torvalds - {}", linus_torvalds.said());
-}
-```
-<br />
-
-## ⚡ My Skills
+##  My Skillset
 <br />
 
 <table align="center">
