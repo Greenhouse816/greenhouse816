@@ -107,7 +107,7 @@
     </tr>
 </table>
 
-## ✅ My GitHub Profile Trophy
+## ✅ 🏆 My GitHub Profile Trophy
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
