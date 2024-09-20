@@ -19,5 +19,5 @@ Ethereum, BSC, Polygon, Avalanche C-Chain, Solana
 DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), DeX, NFT Mint & Marketplace & Transfer
 Smart Contract(Solidity, Rust), Web3.js/Solana-Web3.js, Ether.js, Truffle/Remix/Hardhat, Anchor
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
 https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15
