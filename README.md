@@ -1,10 +1,4 @@
 
-## ✅ My GitHub Profile Trophy
-<br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
-
-
 ## ✅ My Skillset
 <br />
 
@@ -112,5 +106,10 @@
       </td>  
     </tr>
 </table>
-<h2></h2>
+
+## ✅ My GitHub Profile Trophy
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
+
 
