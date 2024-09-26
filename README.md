@@ -2,7 +2,7 @@
 ## ✅ My Skillset
 <br />
 
-<table align="center">
+<table align="center"> 
 <tr>
   <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
